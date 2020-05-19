@@ -7,7 +7,7 @@ View Dashboard: https://mandabucklin7.shinyapps.io/Uber-Pickups/
 
 Nate Wagner (@natewagner10), Dominic Ventura (@dominicventura19), & Ashley Brockway (@AshBrockway)
 
-# Noteable Findings   
+# Summarization of Findings   
 
 - Geographically highlighted boroughs with a high number of Uber pick-ups.   
 - Visualized what a "typical day" of Uber pick-ups is in NYC on weekends vs weekdays   
